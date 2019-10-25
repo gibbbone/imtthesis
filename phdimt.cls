@@ -7,7 +7,7 @@
 
 % Packages and some basic initialisation
 
-\usepackage{subfigure}
+\usepackage{subcaption}
 \usepackage{graphics}
 \usepackage{booktabs}
 \usepackage{tabularx}
